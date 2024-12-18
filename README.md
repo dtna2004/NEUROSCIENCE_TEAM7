@@ -73,7 +73,7 @@ Dự án sử dụng các bộ dữ liệu ảnh chất lượng cao và thấp 
 - **DIV2K_train_HR**
 - **Flickr2K_HR**
 
-Liên kết tải dữ liệu: [Đường link đến dữ liệu](#link-dữ-liệu)
+Liên kết tải dữ liệu: [https://drive.google.com/drive/u/1/folders/1p-72dwX5oAumZglD6eAYjFoNBByAtwTj]
 
 ## Kết quả đạt được
 
